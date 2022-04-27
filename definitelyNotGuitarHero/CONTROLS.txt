@@ -1,0 +1,10 @@
+Frets:
+	Green: Y
+	Red: U
+	Yellow: I
+	Blue: O
+	Orange: P
+Strum:
+	Z and X
+Exit:
+	ESC
