@@ -1,7 +1,7 @@
 # IT-4401
 IT 4401 Projects 
 
-These projects are the results of this Python Introduction class during my first semester sophomore year. Most interesting are definitelyNotGuitarHero, Rock, Paper, Scissors Game, Tweet Manager, and Music Analyzer.
+These projects were created during this Introductory Python class during my first semester sophomore year. Most notable is definitelyNotGuitarHero, followed by Rock, Paper, Scissors Game, Tweet Manager, and Music Analyzer which are more substantial than the rest.
 
 Projects in order created:
 Intro Project
